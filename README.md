@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Hi, I’m Manish, I am a PhD researcher at Max Planck Institute for Neurobiology of Behavior - CAESAR situated in Bonn, Germany.
 - 👀 I’m interested in Dynamical systems, Complex networks and Python programming in general.
-- 🌱 I’m currently learning OOP in Pyhton.
+- 🌱 I’m currently learning Python based machine learning tools and applications.
 
 
 <!--
