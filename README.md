@@ -19,3 +19,4 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:manish.yadav83@outlook.com)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Manish-Yadav-16)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=X6MgHskAAAAJ)
+[![Outlook](https://img.shields.io/badge/Resume-2022-Green)](https://maneesh51.github.io/resume/)
