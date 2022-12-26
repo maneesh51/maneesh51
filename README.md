@@ -26,4 +26,6 @@ You can use the website to generate badges: https://shields.io/
 
 - Covid-19 tracker 
 
-https://github.com/maneesh51/maneesh51.github.io/blob/master/_posts/2022-12-26-Covid19-TableauDashoard.md
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Covid19_Dataset_16720607275870/Dashboard_India?:embed=yes&:display_count=yes&:showVizHome=no" width = '950' height = '650'></iframe>
+
+
