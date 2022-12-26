@@ -21,3 +21,9 @@ You can use the website to generate badges: https://shields.io/
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Manish-Yadav-16)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=X6MgHskAAAAJ)
 [![Outlook](https://img.shields.io/badge/Resume-2022-Green)](https://maneesh51.github.io/resume/)
+
+
+
+- Covid-19 tracker 
+
+https://github.com/maneesh51/maneesh51.github.io/blob/master/_posts/2022-12-26-Covid19-TableauDashoard.md
