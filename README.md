@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 You can use the website to generate badges: https://shields.io/
 -->
 
+<!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/maneesh51) -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/maneesh51)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav51/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/manish_yadav4)
