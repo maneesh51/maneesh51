@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/maneesh51) -->
-[![Github](https://img.shields.io/badge/website-maneesh51.github.io-blue)](https://maneesh51.github.io/)
+[![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav51/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/manish_yadav4)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:manish.yadav83@outlook.com)
