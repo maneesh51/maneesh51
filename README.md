@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Manish-Yadav-16)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=X6MgHskAAAAJ)
-[![Outlook](https://img.shields.io/badge/Resume-2022-Green)](https://maneesh51.github.io/resume/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav51/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/manish_yadav4)
+[![Outlook](https://img.shields.io/badge/Resume-2022-Green)](https://maneesh51.github.io/resume/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:manish.yadav83@outlook.com)
 
 
