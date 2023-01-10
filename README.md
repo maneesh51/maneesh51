@@ -25,8 +25,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav51/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/manish_yadav4)
 
-#### Contact:
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:manish.yadav83@outlook.com)
+#### Contact: [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:manish.yadav83@outlook.com)
 
 
 
