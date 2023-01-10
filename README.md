@@ -16,7 +16,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/maneesh51) -->
 
 [![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
-![Github stars](https://img.shields.io/github/stars/maneesh51?style=social)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Manish-Yadav-16)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=X6MgHskAAAAJ)
 [![Outlook](https://img.shields.io/badge/Resume-2022-Green)](https://maneesh51.github.io/resume/)
@@ -26,4 +25,4 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
+![Github stars](https://img.shields.io/github/stars/maneesh51?style=social)
