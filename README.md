@@ -1,8 +1,8 @@
 ## Hello visitor 👋
 - 🔭 I’m Manish, I am a Postdoctoral researcher in [Cyber-Physical Systems lab (CPS-ME)](https://www.tu.berlin/cpsme) at TU Berlin.
 -  I did my Ph.D. in Complex Dynamical Systems from [Max Planck Institute for Neurobiology of Behavior](https://mpinb.mpg.de/en/), Bonn, Germany.
-- 👀 I’m interested in Dynamical systems, Complex networks and Python programming in general.
-- 🌱 Interested in building Python based Deep-Learning tools and making some applications.
+- 👀 I’m interested in Complex Dynamical Systems, Chaos Theory and Networks Science. More details on [![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
+- 🌱 Further interests include building Python based Deep-Learning tools and making some applications.
 
 
 <!--
@@ -16,7 +16,6 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/maneesh51) -->
 
-[![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Manish-Yadav-16)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=X6MgHskAAAAJ)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manishyadav51/)
