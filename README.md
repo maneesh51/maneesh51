@@ -1,9 +1,9 @@
 ## Hello visitor 👋
 - 🔭 I’m Manish, I am a Postdoctoral researcher in [Cyber-Physical Systems lab (CPS-ME)](https://www.tu.berlin/cpsme) at TU Berlin.
 -  I did my Ph.D. in Complex Dynamical Systems from [Max Planck Institute for Neurobiology of Behavior](https://mpinb.mpg.de/en/), Bonn, Germany.
-- 👀 I’m interested in Complex Dynamical Systems, Chaos Theory and Networks Science. More details on [![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
+- 👀 I’m interested in Complex Dynamical Systems, Chaos Theory and Networks Science. 
 - 🌱 Further interests include building Python based Deep-Learning tools and making some applications.
-
+- For more details: [![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
 
 <!--
 **maneesh51/maneesh51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
