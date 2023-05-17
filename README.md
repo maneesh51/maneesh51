@@ -3,6 +3,7 @@
 -  I did my Ph.D. in Complex Dynamical Systems from [Max Planck Institute for Neurobiology of Behavior](https://mpinb.mpg.de/en/), Bonn, Germany.
 - 👀 I’m interested in Complex Dynamical Systems, Chaos Theory and Networks Science. 
 - 🌱 Further interests include building Python based Deep-Learning tools and making some applications.
+
 - For more details: [![Github](https://img.shields.io/badge/website-maneesh51.github.io-orange)](https://maneesh51.github.io/)
 
 <!--
