@@ -2,7 +2,7 @@
 - 🔭 I’m Manish, I am a Physicist & ML Researcher. Currently, a Postdoctoral researcher in [Cyber-Physical Systems lab (CPS-ME)](https://www.tu.berlin/cpsme/ueber-uns/team/manish-yadav) at TU Berlin working on efficient and sparse neural architectures for dynamical systems.
 - 🎓 PhD in Complex Dynamical Systems from the [Max Planck Institute for Neurobiology of Behavior](https://mpinb.mpg.de/en/), Bonn — where I built a theoretical framework connecting biological spiking dynamics to reservoir computing and SNNs.
 - 🧠 Research interests: Information processing · Complex Networks · Spiking Neural Networks · Network Pruning & Sparsity · Nonlinear Dynamics · Evolutionary Network Design · Physical ML
-- 🛠️ I build open-source Python tools for ML research and deployment — check out PyReCo, my PyTorch-based reservoir computing library on PyPI. 
+- 🛠️ I build open-source Python tools for ML research and deployment, check out PyReCo, a reservoir computing library on [PyPI](https://pypi.org/pypi/pyreco/). 
 - 🌍 Active collaborations across Germany, Netherlands, UK, India, Canada, and Australia.
 
 - For more details: 
